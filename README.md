@@ -4,10 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvinay28x&label=Views&color=blue&style=plastic" alt="xvinay28x" /> </p>
 
+
 - 🌱 I’m currently learning AI, ML, DL or NLP
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [LinkedIn : @xvinay28x](https://www.linkedin.com/in/xvinay28x/)   
 - ⚡ Fun fact: Playing Games
+
 
 <a href="https://github.com/xvinay28x">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xvinay28x&show_icons=true&theme=light&count_private=true" />
