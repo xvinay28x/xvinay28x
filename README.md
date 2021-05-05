@@ -1,5 +1,6 @@
-### Hi there 👋
-### I am vinay garg
+### Hi there <img src = "https://media1.tenor.com/images/22951e6f65887bcc974aa1dfd4c096ce/tenor.gif?itemid=17049203">
+
+# I am vinay garg
 <!--
 **xvinay28x/xvinay28x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
