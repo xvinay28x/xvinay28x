@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [LinkedIn : @xvinay28x](https://www.linkedin.com/in/xvinay28x/),[Twitter : @xvinay28x](https://www.twitter.com/xvinay28x),[Instagram : @xvinay28x](https://www.instagram.com/xvinay28x/)
 - ⚡ Fun fact: 
-- <img src = "https://www.pngwing.com/en/free-png-ngaxh">
+- <img src = "https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif">
