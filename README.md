@@ -1,6 +1,6 @@
 ### Hi there <img src = "https://media.tenor.com/images/e89ab197c95440745f57041fcf379322/tenor.gif"  width = "100px">
 
-# I am Vinay Garg
+## I'm Vinay Garg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvinay28x&label=Views&color=blue&style=plastic" alt="xvinay28x" /> </p>
 <!--
