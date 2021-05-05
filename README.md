@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xvinay28x&label=Views&color=blue&style=plastic" alt="xvinay28x" /> </p>
 
-**xvinay28x/xvinay28x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning AI, ML, DL or NLP
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Machine Learning
