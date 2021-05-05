@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 <a href="https://github.com/xvinay28x">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xvinay28x&show_icons=true&theme=light&count_private=true" alt="Sahil's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=xvinay28x&show_icons=true&theme=light&count_private=true" />
 </a>
 
