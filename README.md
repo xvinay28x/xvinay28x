@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning AI, ML, DL or NLP
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: [LinkedIn : @xvinay28x](https://www.linkedin.com/in/xvinay28x/), [Twitter : @xvinay28x](https://www.twitter.com/xvinay28x), [Instagram : @xvinay28x](https://www.instagram.com/xvinay28x/)
-- ⚡ Fun fact: 
+- 📫 How to reach me: [LinkedIn : @xvinay28x](https://www.linkedin.com/in/xvinay28x/)
+- ⚡ Fun fact: Playing Games
 
 <a href="https://github.com/xvinay28x">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xvinay28x&show_icons=true&theme=light&count_private=true" />
