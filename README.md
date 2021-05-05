@@ -1,6 +1,8 @@
 ### Hi there <img src = "https://media.tenor.com/images/e89ab197c95440745f57041fcf379322/tenor.gif"  width = "100px">
 
-# I am vinay garg
+# I am Vinay Garg
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xvinay28x&label=Views&color=blue&style=plastic" alt="xvinay28x" /> </p>
 <!--
 **xvinay28x/xvinay28x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
