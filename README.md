@@ -1,4 +1,4 @@
-### Hi there <img src = "https://media.tenor.com/images/e89ab197c95440745f57041fcf379322/tenor.gif"  width = "50px">
+### Hi there <img src = "https://media.tenor.com/images/e89ab197c95440745f57041fcf379322/tenor.gif"  width = "100px">
 
 # I am vinay garg
 <!--
